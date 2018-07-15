@@ -38,7 +38,7 @@ Usage
 
 If you use Kivy garden, you can import the widget like this::
 
-    from kivy.garden.mapview import MapView, MarkerMap
+    from kivy.garden.mapview import MapView, MapMarker
     map = MapView()
 
 You can customize the default zoom and center the view on Lille by::
